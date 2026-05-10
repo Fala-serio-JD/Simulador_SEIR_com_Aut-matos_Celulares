@@ -1,0 +1,1 @@
+# Simulador_SEIR_com_Aut-matos_Celulares
